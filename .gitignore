@@ -1,0 +1,13 @@
+# Generated data, reproducible with `python run_all.py`
+data/
+outputs/*.csv
+
+# But keep the visuals so the repo shows something without running it
+!outputs/charts/
+!outputs/dashboard.html
+
+__pycache__/
+*.pyc
+.DS_Store
+venv/
+.venv/

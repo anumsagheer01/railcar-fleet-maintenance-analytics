@@ -1,0 +1,10 @@
+# RailPulse dependencies
+# Install with: pip install -r requirements.txt
+
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+pulp>=2.7            # linear and integer programming, ships with the CBC solver
+matplotlib>=3.7
+
+# SQLite comes with Python, so there is nothing to install for the database.
