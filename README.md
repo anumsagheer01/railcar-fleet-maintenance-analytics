@@ -44,6 +44,14 @@ The interesting parts are the judgment calls, and I have written each one down i
 | Scenario tested | Half capacity at the busiest shop adds 7.9% to monthly cost |
 | Runtime, end to end | ~31 seconds |
 
+![Volume and seasonality](outputs/charts/01_volume_and_seasonality.png)
+
+![Forecast model comparison](outputs/charts/07_model_comparison.png)
+
+![Shop assignment optimization](outputs/charts/08_optimizer.png)
+
+
+
 ### What the analysis found
 
 1. Repair volume grew **6.8%** over three years, on top of a strong seasonal cycle. December runs 17% above an average month and June 13% below, a **34% swing** peak to trough. Any plan built on an annual average is wrong half the year.
