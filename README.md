@@ -324,9 +324,6 @@ railcar-fleet-maintenance-analytics/
 │   ├── 06_shop_assignment_optimizer.py
 │   ├── 07_build_dashboard.py
 │   └── viz_style.py                    shared chart styling
-├── docs/
-│   ├── DATA_DICTIONARY.md              every table, column, and metric defined
-│   ├── METHOD_NOTES.md                 the judgment calls, written out
 │ 
 ├── data/
 │   ├── raw/                            generated CSVs
