@@ -13,7 +13,6 @@ pip install -r requirements.txt
 python run_all.py
 ```
 
-That takes about 30 seconds. Then open `outputs/dashboard.html` in a browser. No database server to set up, no cloud account, no API keys.
 
 ---
 
