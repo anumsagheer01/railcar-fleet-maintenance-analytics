@@ -1,1 +1,3 @@
-*.html linguist-documentation
+# Exclude generated HTML reports and dashboards from language statistics
+*.html linguist-generated=true
+*.htm linguist-generated=true
