@@ -1,3 +1,4 @@
 # Exclude generated HTML reports and dashboards from language statistics
 *.html linguist-generated=true
 *.htm linguist-generated=true
+*.sql linguist-detectable=true
